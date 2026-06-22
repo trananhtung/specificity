@@ -1,6 +1,6 @@
 [package]
 name = "specificity"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.81"
 description = "Calculate the CSS specificity (a, b, c) of a selector — :is/:not/:has/:where aware. Zero dependencies, no_std."
